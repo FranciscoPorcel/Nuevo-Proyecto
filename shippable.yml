@@ -9,6 +9,7 @@ env:
   global:
     - GAE_DIR=/tmp/gae
     - EMAIL=pacops32@gmail.com
+	- GAE_PASSWORD=2f9p9s2
     - secure: nGyij+zP5ZXH6/DCf/NMkTn8nQ427CWiydI4DHC2WcMQocVmzEo+AEXjNTo66K7eFc2LVTbN3t/mIfWKUCNz6YMODATTePw8cWCOarCXJomHzUkgZlgQy0K8sSfov3mzTf8GJIXtANDtx0SMKoDkDOR07WFgk/XD97Ar3bzoFBSkMEfLULnML/iFlD8L5l/cyROGaoDDQF1jdiPjgpNaNMEonRgEToqusNaI082IU/zuIuGk7QmTGwJv1Ck3bNZ3F6/gr4u1M1638otOMaZuGj6KKyGZJdv8RbIk6BOFHx80nG0rtMKaU9ed2eZh01AKODDd+dVEcJ4wg2Nm6cu0Ng==
 
 before_install:
