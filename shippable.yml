@@ -8,8 +8,8 @@ python:
 env:
   global:
     - GAE_DIR=/tmp/gae
-    - EMAIL=miguel92grnd@gmail.com
-    - secure: izEnXLzkUHIX9KvSdhlZ6JnzSgXcrmvzcvqgEoMTRJId1mNXn2H9XyW1SbjLg32akqC1/9w6umjcxMCICEW7JqSijYW1d2AWBBFKhxKIHw7EpVbyz9E3KWgGoLuRrOc28gXX/YcD1YlTAMnnRx7Bg2QpjzttcfkBuf6XzjDPmr9xklTKyiGK/eWWT0iLGgTskizBL4iJFcC7DVQK+/hc2J8NGFnKO91ZRS7QsCg54VxTIqSBO5y6Hc2XvNjxd6GeAIY/PYtEwv/IjycUHPL8IzzFK+GNSmSe9YlCtkAWKEXWCOzwkRPMzqKXNGDbrCl7AaA1oWqugSA7NqSKNmbV9Q==
+    - EMAIL=pacops32@gmail.com
+    - secure:nGyij+zP5ZXH6/DCf/NMkTn8nQ427CWiydI4DHC2WcMQocVmzEo+AEXjNTo66K7eFc2LVTbN3t/mIfWKUCNz6YMODATTePw8cWCOarCXJomHzUkgZlgQy0K8sSfov3mzTf8GJIXtANDtx0SMKoDkDOR07WFgk/XD97Ar3bzoFBSkMEfLULnML/iFlD8L5l/cyROGaoDDQF1jdiPjgpNaNMEonRgEToqusNaI082IU/zuIuGk7QmTGwJv1Ck3bNZ3F6/gr4u1M1638otOMaZuGj6KKyGZJdv8RbIk6BOFHx80nG0rtMKaU9ed2eZh01AKODDd+dVEcJ4wg2Nm6cu0Ng==
 
 before_install:
   - >
